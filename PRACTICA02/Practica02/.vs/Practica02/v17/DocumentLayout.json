@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTAD\\PRACTICA02\\Practica02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\script.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\utilidades\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\dominio\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\datos\\formaspagorepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\datos\\articulosrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\servicios\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\utilidades\\parametrossql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A84D5AE-2C50-431B-833D-185D795D4863}|Practica02.csproj|d:\\facultad\\practica02\\practica02\\data\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A84D5AE-2C50-431B-833D-185D795D4863}|Practica02.csproj|solutionrelative:data\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A84D5AE-2C50-431B-833D-185D795D4863}|Practica02.csproj|d:\\facultad\\practica02\\practica02\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A84D5AE-2C50-431B-833D-185D795D4863}|Practica02.csproj|solutionrelative:controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\datos\\detallesfacturarepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\datos\\facturarepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Script.txt",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Script.txt",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Script.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-17T19:21:24.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Articulos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Dominio\\Articulos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Dominio\\Articulos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:51:25.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormasPagoRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Datos\\FormasPagoRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Datos\\FormasPagoRepositoryADO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:50:00.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FacturaRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Datos\\FacturaRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Datos\\FacturaRepositoryADO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:49:49.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetallesFacturaRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Datos\\DetallesFacturaRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Datos\\DetallesFacturaRepositoryADO.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAYwC8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:49:39.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Utilidades\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Utilidades\\DataHelper.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:02:06.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParametrosSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Utilidades\\ParametrosSQL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Utilidades\\ParametrosSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:01:55.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticulosRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Datos\\ArticulosRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Datos\\ArticulosRepositoryADO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:55:43.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticuloService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Servicios\\ArticuloService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Servicios\\ArticuloService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:51:28.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAplicacion.cs",
+              "DocumentMoniker": "D:\\FACULTAD\\PRACTICA02\\Practica02\\Data\\IAplicacion.cs",
+              "RelativeDocumentMoniker": "Data\\IAplicacion.cs",
+              "ToolTip": "D:\\FACULTAD\\PRACTICA02\\Practica02\\Data\\IAplicacion.cs",
+              "RelativeToolTip": "Data\\IAplicacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:59:58.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "D:\\FACULTAD\\PRACTICA02\\Practica02\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticulosController.cs",
+              "ToolTip": "D:\\FACULTAD\\PRACTICA02\\Practica02\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Controllers\\ArticulosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:49:17.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
